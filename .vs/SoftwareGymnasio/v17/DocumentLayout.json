@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\controldeacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|solutionrelative:controldeacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\recuperacontraenviodecodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|solutionrelative:recuperacontraenviodecodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\moanso\\softwaregymnasio\\recuperacontraenviodecodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|solutionrelative:recuperacontraenviodecodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D8FED5-CBE4-465C-87A0-8D5C6A6148A4}|SoftwareGymnasio.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecuperaContraEnvioDeCodigo.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\RecuperaContraEnvioDeCodigo.cs",
+              "RelativeDocumentMoniker": "RecuperaContraEnvioDeCodigo.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\RecuperaContraEnvioDeCodigo.cs",
+              "RelativeToolTip": "RecuperaContraEnvioDeCodigo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADgvxoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:26:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecuperaContraEnvioDeCodigo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\RecuperaContraEnvioDeCodigo.cs",
+              "RelativeDocumentMoniker": "RecuperaContraEnvioDeCodigo.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\RecuperaContraEnvioDeCodigo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RecuperaContraEnvioDeCodigo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:10:43.12Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADgvz8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:45:33.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:29:41.902Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlDeAcceso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\ControlDeAcceso.cs",
+              "RelativeDocumentMoniker": "ControlDeAcceso.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\MOANSO\\SoftwareGymnasio\\ControlDeAcceso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeAcceso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:25:33.618Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

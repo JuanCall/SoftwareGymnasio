@@ -1,0 +1,12 @@
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\bin\Debug\SoftwareGymnasio.exe.config
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\bin\Debug\SoftwareGymnasio.exe
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\bin\Debug\SoftwareGymnasio.pdb
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.Properties.Resources.resources
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.csproj.GenerateResource.cache
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.exe
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.pdb
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.Login.resources
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.ControlDeAcceso.resources
+C:\Users\juanc\OneDrive\Escritorio\MOANSO\SoftwareGymnasio\obj\Debug\SoftwareGymnasio.RecuperaContraEnvioDeCodigo.resources
